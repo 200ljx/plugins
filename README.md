@@ -2,7 +2,7 @@
 
 This README outlines the details of collaborating on this Ember addon.
 
-## Installation
+## Installation1
 
 * `git clone` this repository
 * `npm install`
